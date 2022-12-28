@@ -1,0 +1,5 @@
+create database newusers;
+use newusers;
+create table Biketrip(name varchar(50), password varchar(50), email varchar(50), phone int , hotel varchar(50), bike varchar(50));
+desc Biketrip;
+select * from biketrip;
